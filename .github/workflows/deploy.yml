@@ -24,5 +24,3 @@ jobs:
         REMOTE_USER: "ubuntu"
         TARGET: "/var/www/html/hdcevents2/"
         EXCLUDE: "/dist/, /vendor/, /node_modules/, **.env"
-
-        
